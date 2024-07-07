@@ -3,8 +3,6 @@
 ## Bank of Baroda Hackathon 2024
 
 **Team Name:** InnovateBOB
-**Team Member:** Yashkumar Kavaiya
-**Date:** 30/06/2024
 
 ## Table of Contents
 
