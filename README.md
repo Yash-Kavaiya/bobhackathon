@@ -5,10 +5,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![AI](https://img.shields.io/badge/Generative%20AI-Powered-brightgreen?style=for-the-badge)
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/149487961?v=4" width="200" alt="BoBuddy Logo"/>
-</div>
-
 ## 📋 Table of Contents
 
 - [🎯 Problem Statement](#-problem-statement)
